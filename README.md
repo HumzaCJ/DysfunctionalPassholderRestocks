@@ -20,11 +20,13 @@ requests
 
 
 ## Future Additions
-```
+
 1. Proxy rotation to prevent IP bans from Squarespace's systems. This script was made to be run at the times of a drop once the item went out of stock, not for long term scraping.
+
 2. Cache Solving. Methods such as randomising header rotations, random queries on the request URL, dynamic cooldowns and more.
+
 3. Automated Ccheckout. Once the item restocks, complete the entire checkout using requests/headless browser to automate the entire process.
-```
+
 
 ## Disclaimer
 This tool is for **educational purposes** only. Automated monitoring may violate the website's Terms of Service. Use responsibly.

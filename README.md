@@ -13,11 +13,11 @@ requests
 ```
 
 ## Configuration
-```
+
 1. Replace `WEBHOOK_URL` with your Discord webhook URL
 2. Update the embed details in `send_webhook()` to match your branding style
 3. Run ``python main.py`` and leave the code running
-```
+
 
 ## Future Additions
 ```
